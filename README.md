@@ -1,3 +1,4 @@
+![Fuongw]("C:\Users\Admin\OneDrive\Pictures\ed239ddc0e23afd424de14db792c6bf8.gif")
 
 <!--
 **Fuongw/Fuongw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
