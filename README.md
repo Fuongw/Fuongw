@@ -1,5 +1,3 @@
-![My GitHub Profile](https://raw.githubusercontent.com/Fuongw/Fuongw/main/banner.png)
-![GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 <!--
 **Fuongw/Fuongw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
