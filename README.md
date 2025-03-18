@@ -1,4 +1,4 @@
-![Fuongw]("C:\Users\Admin\OneDrive\Pictures\ed239ddc0e23afd424de14db792c6bf8.gif")
+[![MasterHead](https://jp.pinterest.com/pin/2111131071663603/)
 
 <!--
 **Fuongw/Fuongw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
