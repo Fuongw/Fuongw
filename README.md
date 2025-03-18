@@ -1,3 +1,5 @@
+![Fuong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fuong&show_icons=true&theme=dark)
+
 ![MasterHead](https://i.pinimg.com/originals/ed/23/9d/ed239ddc0e23afd424de14db792c6bf8.gif)
 
 <!--
