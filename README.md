@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/ed/23/9d/ed239ddc0e23afd424de14db792c6bf8.gif)
+![MasterHead](https://i.pinimg.com/originals/ed/23/9d/ed239ddc0e23afd424de14db792c6bf8.gif)
 
 <!--
 **Fuongw/Fuongw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
