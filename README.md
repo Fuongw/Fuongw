@@ -1,4 +1,4 @@
-## Hi there 👋
+![My GitHub Profile](https://raw.githubusercontent.com/Fuongw/Fuongw/main/banner.png)
 
 <!--
 **Fuongw/Fuongw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
